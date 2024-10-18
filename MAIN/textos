@@ -1,0 +1,699 @@
+<main id="webApp-main">
+    <div class="container">
+        <div id="webApp-main__content">
+            <div class="webApp-box webApp-boxNews webApp-box__nonePadding">
+                <div class="webApp-boxNews__header">
+                    <div class="avatar">
+                        <img class="lazy" src="//cdn.minecart.com.br/assets/img/steve_head_64x64.png" data-src="https://minotar.net/helm/colonyz/64" alt>
+                    </div>
+                    <div class="content">
+                        <p>
+                            <b>[Master] Zynoxs
+                            </b>
+                        </p>
+                        <p>
+                            <b>
+                                <small>08-10-2024 23:11:34</small>
+                            </b>
+                        </p>
+                    </div>
+                </div>
+                <div class="webApp-boxNews__card lazy-news-image" data-bg="coloca aqui o ">
+                    <div class="title">&lrm;</div>
+                </div>
+                <div class="flex flex-col gap-2 webApp-boxNews__main">
+                    <div class="content">
+                        <h2 style="text-align:center;">
+                            <strong>🛠️ Seja bem-vindo à seção de Diretrizes da Comunidade da Rede Dust. </strong>
+                        </h2>
+                        <p style="text-align:justify;"></p>
+                        <p style="text-align:center;">
+                            <i>Temos como principal objetivo proporcionar aos nossos jogadores uma experiência saudável e divertida. Para tal, é indispensável que hajam regras e condutas a serem seguidas por todos, a fim de garantir que todos contribuam para a construção de um ambiente seguro e prazeroso. </i>
+                        </p>
+                        <p style="text-align:center;"></p>
+                        <h3 style="text-align:center;"></h3>
+                        <h3 style="text-align:center;">
+                            <strong>📖 Considerações iniciais</strong>
+                        </h3>
+                        <p style="text-align:justify;"></p>
+                        <ul>
+                            <li>
+                                <p>
+                                    Ao jogar na Rede Dust, você deve estar ciente de que a responsabilidade da sua conta e de seu endereço de IP é exclusivamente sua. Todas as ações realizadas em nosso servidor são de sua responsabilidade, sejam elas legais ou ilegais, e devem estar em conformidade com as diretrizes estabelecidas. Para manter sua conta segura, não a compartilhe com ninguém, não importa quem seja. É importante lembrar que, se sua conta for suspensa na Rede Dust, qualquer outra conta registrada no seu endereço de IP também será suspensa por reincidência nas violações das diretrizes.<br/>
+                                    <br/>
+                                    ⚠️ Não obstante, é válido salientar que a equipe da Rede Dust se reserva ao direito de instruir, advertir e punir qualquer jogador que cometa uma infração por desvio de conduta.<br/>
+                                    <br/>⚠️ É importante reiterar que nossas regras evoluem constantemente, estando sujeitas a alterações ao longo do tempo. Além do mais, lembramos que as punições para cada infração variam em: 
+                                </p>
+                                <p></p>
+                            </li>
+                        </ul>
+                        <h4>
+                            <br/>
+                            <br/>Tipo: 
+                        </h4>
+                        <ul>
+                            <li>Banimento</li>
+                            <li>Silenciamento</li>
+                        </ul>
+                        <p></p>
+                        <h4>Categoria:</h4>
+                        <ul>
+                            <li>Violação das diretrizes da comunidade</li>
+                            <li>Uso de trapaças</li>
+                            <li>
+                                <p>Blacklist</p>
+                                <p></p>
+                                <p></p>
+                                <h4></h4>
+                                <h4 style="text-align:center;">📜 Infrações com potencial de banimento permanente ou temporário:</h4>
+                                <p></p>
+                            </li>
+                            <li>
+                                <i>Aliar-se a outro(s) jogador(es) em partidas de BedWars, sendo eles inimigos</i>
+                            </li>
+                            <li>
+                                <i>Aliar-se a jogadores usuários de trapaças</i>
+                            </li>
+                            <li>Fazer construções inapropriadas</li>
+                            <li>
+                                <i>Calúnia e difamação</i>
+                            </li>
+                            <li>
+                                <i>Ameaçar outros jogadores ou o servidor</i>
+                            </li>
+                            <li>
+                                <i>Impactar negativamente a jogabilidade de terceiros, como fazer free kill, bugar o VOID e prejudicar intensionalmente seu time em um modo de jogo em equipe</i>
+                            </li>
+                            <li>
+                                <i>Utilizar skin e/ou capa que fira os direitos humanos, dissemine discurso de ódio ou faça apologia sexual.</i>
+                            </li>
+                            <li>
+                                <i>Apresentar-se com um nickname que fira os direitos humanos, dissemine discurso de ódio ou faça apologia sexual.</i>
+                            </li>
+                            <li>
+                                <i>Usufruir de trapaças para obter vantagens injustas dentro de jogo, como o uso de hacked clients, ghost clients, macros, auto clickers etc</i>
+                            </li>
+                            <li>
+                                <i>Ferir a </i>
+                                <a href="https://loja.rededust.com/terms">
+                                    <i>Política de Reembolso </i>
+                                </a>
+                                <i>da rede</i>
+                            </li>
+                            <li>
+                                <i>Reproduzir discurso de ódio ou discriminatórios, como racismo, sexismo, homofobia, gordofobia, capacitismo etc</i>
+                            </li>
+                            <li>
+                                <i>Abusar de bugs, exploits e outras falhas para benefício próprio.</i>
+                            </li>
+                            <li>
+                                <p>
+                                    <i>Evite o uso de clicks como Butterfly e DragClick, visto que podem ser detectados pelo anticheat e acarretar em punição</i>
+                                </p>
+                                <h4></h4>
+                                <h4 style="text-align:center;"></h4>
+                                <h4 style="text-align:center;"></h4>
+                                <h4 style="text-align:center;">📜 Infrações com potencial de silenciamento permanente ou temporário:</h4>
+                                <p></p>
+                            </li>
+                            <li>
+                                <i>Utilizar de forma inadequada o comando /report, como praticar spam e enviar denúncias com mensagens ofensivas ou desconexas do propósito elementar do comando.</i>
+                            </li>
+                            <li>
+                                <i>Emitir mensagens de conteúdo sexual explícito</i>
+                            </li>
+                            <li>
+                                <i>Promover brigas e intrigas</i>
+                            </li>
+                            <li>
+                                <i>Reproduzir discurso de ódio ou discriminatórios, como racismo, sexismo, homofobia, gordofobia, capacitismo etc</i>
+                            </li>
+                            <li>Conduta tóxica, desrespeitosa ou provocativa no bate-papo</li>
+                            <li>Envio exagerado de mensagens e/ou caracteres iguais</li>
+                            <li>Proferir mensagens ofensivas direcionadas a um jogador, a um membro da equipe ou ao servidor</li>
+                            <li>Divulgar outros servidores no bate-papo</li>
+                            <li>Divulgar links de vídeos não gravados na Rede Dust ou que não possuam relação com o servidor</li>
+                            <li>Divulgar links suspeitos ou inapropriados</li>
+                            <li>Utilizar-se do bate-papo para fins comerciais</li>
+                            <li>Tentar violar a privacidade de algum jogador ou staff, solicitando, por exemplo, compartilhamento de tela (ScreenShare)</li>
+                            <li>
+                                <i>Criar clans com nomes quefiram os direitos humanos, dissemine discurso de ódio ou faça apologia sexual.</i>
+                            </li>
+                            <li>
+                                <i>Incentivar outros jogadores a atentarem contra a própria vida e/ou integridade física</i>
+                            </li>
+                            <li>Ser incoveniente e desagradável de qualquer forma que seja no bate-papo</li>
+                        </ul>
+                        <p></p>
+                        <h3 style="text-align:center;"></h3>
+                        <p style="text-align:center;">
+                            <br/>
+                        </p>
+                        <h3 style="text-align:center;">🔓 Mods permitidos no servidor</h3>
+                        <p style="text-align:center;">
+                            <span class="text-small">
+                                <i>Confira abaixo a lista de mods e clientes permitidos em nossa rede:</i>
+                            </span>
+                        </p>
+                        <p style="text-align:center;"></p>
+                        <h4>Mods: </h4>
+                        <ul>
+                            <li>Optifine</li>
+                            <li>ArmorStatus</li>
+                            <li>Shaders</li>
+                            <li>ToggleSprint</li>
+                            <li>KeyStrokes Mod</li>
+                            <li>CPS Mod</li>
+                            <li>Perspective Mod</li>
+                            <li>Old Animations</li>
+                            <li>Item Physics</li>
+                            <li>Crosshairs</li>
+                            <li>StatusEffect</li>
+                            <li>Direction HUD</li>
+                        </ul>
+                        <p></p>
+                        <p></p>
+                        <h4>Clientes: </h4>
+                        <ul>
+                            <li>5zig</li>
+                            <li>CheatBreaker</li>
+                            <li>Badlion Client</li>
+                            <li>Laby Mod</li>
+                            <li>BlazingPack</li>
+                            <li>Lunar Client</li>
+                            <li>CM-Pack</li>
+                            <li>Cosmic Client</li>
+                            <li>Hyperium Client</li>
+                            <li>Shiginima Launcher</li>
+                            <li>J3Ultimate</li>
+                            <li>BatMod</li>
+                            <li>Arcane Client</li>
+                            <li>Pixel Client</li>
+                            <li>Salwyrr LauncherPvP</li>
+                            <li>PvPLounge Client</li>
+                            <li>
+                                <p>TLauncher</p>
+                                <p></p>
+                            </li>
+                        </ul>
+                        <p style="text-align:center;"></p>
+                        <p style="text-align:center;">
+                            <br/>🔄 Migração de contas
+                        </p>
+                        <p style="text-align:center;"></p>
+                        <ul>
+                            <li>
+                                <p>
+                                    Para migrar dados, estatísticas e ranks de uma conta para outra, é necessário adquirir o utilitário 
+                                    <i>
+                                        <strong>Migração de Conta</strong>
+                                    </i>
+                                    na loja. Em seguida, abrir um ticket na categoria <strong>COMPRAS</strong>
+                                    em nosso Discord e aguardar o atendimento por um membro da equipe. 
+                                </p>
+                                <p></p>
+                                <h4>☑︎ Casos elegíveis para migração: </h4>
+                                <p></p>
+                                <p>✔︎ Conta premium ➡︎ Conta premium</p>
+                                <p>✔︎ Conta premium ➡︎ Conta pirata</p>
+                                <p>✔︎ Conta pirata ➡︎ Conta premium</p>
+                                <p>✔︎ Conta pirata ➡︎ Conta pirata</p>
+                                <p></p>
+                                <p></p>
+                                <p>
+                                    <span style="color:hsl(0,75%,60%);">
+                                        <strong>⚠️ ATENÇÃO:</strong>
+                                    </span>
+                                    Não é necessário adquirir a 
+                                    <i>
+                                        <strong>Migração de Conta </strong>
+                                    </i>
+                                    caso você apenas troque o nickname de sua conta premium. 
+                                </p>
+                            </li>
+                        </ul>
+                        <p></p>
+                        <p></p>
+                        <p></p>
+                        <h3 style="text-align:center;">⚖️Revisão de punição</h3>
+                        <p style="text-align:center;"></p>
+                        <ul>
+                            <li>
+                                <p style="text-align:justify;">
+                                    Ao ser punido em nossa rede, o jogador tem o período de sete dias para solicitar uma revisão da sua punição. A requisição é feita em nosso Discord, através do canal #atendimento, onde o usuário deverá abrir um ticket na categoria <i>REVISÕES.</i>
+                                </p>
+                            </li>
+                            <li>
+                                <p style="text-align:justify;">
+                                    Uma vez feita a solicitação de revisão, o jogador deverá aguardar um período de <strong>até </strong>
+                                    72h, onde as provas coletadas para justificar sua punição serão analisadas criteriosamente por nossa equipe.
+                                </p>
+                            </li>
+                            <li>
+                                <p style="text-align:justify;">A Rede Dust não tem obrigação alguma de mostrar diretamente ao jogador as provas de sua punição, uma vez que essa conduta teria potencial de ferir a integridade e privacidade do denunciante e do membro da equipe responsável pela punição.</p>
+                            </li>
+                        </ul>
+                        <p style="text-align:justify;"></p>
+                        <p style="text-align:justify;"></p>
+                        <p style="text-align:center;"></p>
+                        <p style="text-align:center;">
+                            <span class="text-tiny">
+                                <i>O documento acima está sujeito a alterações a qualquer momento, sem aviso préviso. Portanto, mantenha-se por dentro das novidades e modificações possíveis.</i>
+                            </span>
+                        </p>
+                    </div>
+                    <div class="text-right">
+                        <a href="/news/2682" class="text-link">
+                            <button class="btn btn-xs btn-primary">LER MAIS</button>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="webApp-box webApp-boxNews webApp-box__nonePadding">
+                <div class="webApp-boxNews__header">
+                    <div class="avatar">
+                        <img class="lazy" src="//cdn.minecart.com.br/assets/img/steve_head_64x64.png" data-src="https://minotar.net/helm/Fwizyx/64" alt>
+                    </div>
+                    <div class="content">
+                        <p>
+                            Postado por <b>Fwizyx</b>
+                        </p>
+                        <p>
+                            <b>
+                                <small>04-10-2024 00:07:47</small>
+                            </b>
+                        </p>
+                    </div>
+                </div>
+                <div class="webApp-boxNews__card lazy-news-image" data-bg="https://storage.minecart.com.br/534e4e021060ba4feff20213845c3cf4_tag_spooky_noticia.png">
+                    <div class="title">&lrm;</div>
+                </div>
+                <div class="flex flex-col gap-2 webApp-boxNews__main">
+                    <div class="content">
+                        <h2>CHEGOU O NOVO PACOTE SPOOKY 🎃</h2>
+                        <p>
+                            <br/>
+                            Entre no clima de Halloween no <strong>Dust</strong>
+                            com o novo pacote <strong>SPOOKY!</strong>
+                            <br/>
+                            O pacote <strong>SPOOKY</strong>
+                            será dois cosméticos eterno 
+                            <i>
+                                <strong>(tag, medalha e título)</strong>
+                            </i>
+                            com acesso de todas as vantagens do melhor rank por 30 dias!
+                        </p>
+                        <p>
+                            <br/>
+                            Aproveitando o embalo das novidades do servidor, disponibilizamos um cupom de 30% de desconto, cupom <strong>MEDO</strong>
+                            .<br/>
+                            Mas corra, porque ela estará disponível somente até 04/11! Não perca essa chance de dominar o <strong>Dust </strong>
+                            com estilo e poder!
+                        </p>
+                    </div>
+                    <div class="text-right">
+                        <a href="/news/2674" class="text-link">
+                            <button class="btn btn-xs btn-primary">LER MAIS</button>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="webApp-box webApp-boxNews webApp-box__nonePadding">
+                <div class="webApp-boxNews__header">
+                    <div class="avatar">
+                        <img class="lazy" src="//cdn.minecart.com.br/assets/img/steve_head_64x64.png" data-src="https://minotar.net/helm/Fwizyx/64" alt>
+                    </div>
+                    <div class="content">
+                        <p>
+                            Postado por <b>Fwizyx</b>
+                        </p>
+                        <p>
+                            <b>
+                                <small>28-09-2024 01:58:32</small>
+                            </b>
+                        </p>
+                    </div>
+                </div>
+                <div class="webApp-boxNews__card lazy-news-image" data-bg="https://storage.minecart.com.br/a98d4b752c48c46b6c775b2b2609806f_clan_noticia.png">
+                    <div class="title">&lrm;</div>
+                </div>
+                <div class="flex flex-col gap-2 webApp-boxNews__main">
+                    <div class="content">
+                        <p>
+                            O novo sistema de clãs do servidor <strong>Dust </strong>
+                            traz diversas inovações que incentivam o crescimento das comunidades no jogo.
+                        </p>
+                        <p></p>
+                        <p>
+                            Oferecendo vagas expansíveis, benefícios econômicos, personalizações e acesso exclusivo à equipe do servidor, os clãs se tornam essenciais para a experiência dos jogadores. O sistema recompensa tanto clãs pequenos quanto grandes, promovendo colaboração e competição entre os grupos. <br/>
+                            <br/>Confira os detalhes abaixo:
+                        </p>
+                        <p>
+                            <br/>
+                        </p>
+                        <h2>
+                            Criação de Clãs e Limite de Membros<br/>
+                        </h2>
+                        <ul>
+                            <li>
+                                <strong>Clãs padrão: </strong>
+                                Todos os jogadores podem criar clãs com até 5 vagas.
+                            </li>
+                            <li>
+                                <strong>Expansão conforme o rank:</strong>
+                                <ul>
+                                    <li>
+                                        <span style="color:rgb(22,221,8);">
+                                            <strong>VIP</strong>
+                                        </span>
+                                        <strong>:</strong>
+                                        Até 15 membros.
+                                    </li>
+                                    <li>
+                                        <span style="color:rgb(0,0,255);">
+                                            <strong>MVP</strong>
+                                        </span>
+                                        <strong>:</strong>
+                                        Até 30 membros.
+                                    </li>
+                                    <li>
+                                        <span style="color:rgb(184,159,0);">
+                                            <strong>PRO</strong>
+                                        </span>
+                                        <strong>:</strong>
+                                        Até 50 membros.
+                                    </li>
+                                    <li>
+                                        <p>
+                                            <span style="color:rgb(19,19,160);">
+                                                <strong>BETA </strong>
+                                            </span>
+                                            <strong>e </strong>
+                                            <span style="color:rgb(252,84,84);">
+                                                <strong>HERO</strong>
+                                            </span>
+                                            <strong>:</strong>
+                                            Membros ilimitados.
+                                        </p>
+                                        <p></p>
+                                    </li>
+                                </ul>
+                            </li>
+                        </ul>
+                        <p>
+                            <i>Essa estrutura de vagas ajustáveis favorece o crescimento gradual dos clãs, permitindo que os jogadores aumentem suas comunidades conforme seu progresso e rank dentro do servidor.</i>
+                        </p>
+                        <p></p>
+                        <p></p>
+                        <p></p>
+                        <h2>Sistema de Cupons de Desconto</h2>
+                        <p></p>
+                        <ul>
+                            <li>
+                                <strong>Clãs com mais de 20 jogadores:</strong>
+                                recebem um cupom de desconto exclusivo para compras na loja do servidor.
+                            </li>
+                            <li>
+                                <strong>Recompensa em cashback:</strong>
+                                5% do valor gerado por esse cupom será retornado diretamente ao clã.
+                            </li>
+                        </ul>
+                        <p></p>
+                        <p>
+                            <i>Essa funcionalidade estimula o uso coletivo do cupom e oferece retorno financeiro para o clã, gerando benefícios que fortalecem a coesão entre os membros.</i>
+                        </p>
+                        <p></p>
+                        <p></p>
+                        <p></p>
+                        <h2>Tags Customizadas</h2>
+                        <p></p>
+                        <ul>
+                            <li>
+                                Clãs com <strong>mais de 7 vendas</strong>
+                                feitas utilizando o cupom de desconto ganham uma <strong>tag customizada</strong>
+                                , que será exibida dentro do servidor.
+                            </li>
+                            <li>
+                                <strong>Ranks BETA e HERO: </strong>
+                                Esses clãs terão acesso a cores adicionais para a tag, oferecendo ainda mais opções de personalização.
+                            </li>
+                        </ul>
+                        <p></p>
+                        <p>
+                            <i>
+                                A <strong>tag customizada</strong>
+                                não só distingue os clãs dentro do servidor, mas também oferece uma forma de identidade visual única, com opções extras de cores para os clãs de maior prestígio.
+                            </i>
+                        </p>
+                        <p></p>
+                        <p></p>
+                        <p></p>
+                        <h2>Acesso Exclusivo ao Discord</h2>
+                        <p></p>
+                        <ul>
+                            <li>
+                                Clãs com <strong>mais de 20 membros</strong>
+                                têm acesso a um servidor de Discord exclusivo com a equipe do servidor Dust.
+                                <ul>
+                                    <li>
+                                        Vantagens:
+                                        <ul>
+                                            <li>Recebem atualizações antecipadas sobre conteúdos futuros.</li>
+                                            <li>Podem participar de decisões e discussões com a equipe do servidor.</li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </li>
+                        </ul>
+                        <p></p>
+                        <p>
+                            <i>Essa integração com a equipe proporciona aos clãs uma participação mais ativa no desenvolvimento e na tomada de decisões do servidor, criando um vínculo mais direto com a staff.</i>
+                        </p>
+                        <p></p>
+                        <p></p>
+                        <p></p>
+                        <h2>Leaderboard de Clãs</h2>
+                        <p></p>
+                        <ul>
+                            <li>
+                                <strong>Ranking de XP no lobby:</strong>
+                                O desempenho dos clãs será mostrado em um leaderboard específico no lobby, semelhante ao top 5 de XP do BedWars.
+                                <ul>
+                                    <li>
+                                        <strong>Cálculo do XP:</strong>
+                                        O XP de todos os membros do clã será contabilizado para compor o ranking.
+                                    </li>
+                                </ul>
+                            </li>
+                        </ul>
+                        <p></p>
+                        <p>
+                            <i>O leaderboard promove a competitividade entre os clãs, incentivando que os membros se dediquem para alcançar e manter suas posições no topo.</i>
+                        </p>
+                        <p></p>
+                        <p></p>
+                        <p></p>
+                        <h2>Conclusão</h2>
+                        <p></p>
+                        <p>O novo sistema de clãs do Dust transforma a experiência em grupo, oferecendo recompensas e personalizações que tornam a jornada coletiva mais empolgante. Com incentivos como cupons de desconto, tags customizadas com opções exclusivas de cores para ranks mais elevados, e a oportunidade de interagir diretamente com a staff em um Discord exclusivo, os clãs agora são uma peça-chave no progresso dos jogadores.</p>
+                    </div>
+                    <div class="text-right">
+                        <a href="/news/2668" class="text-link">
+                            <button class="btn btn-xs btn-primary">LER MAIS</button>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="webApp-box webApp-boxNews webApp-box__nonePadding">
+                <div class="webApp-boxNews__header">
+                    <div class="avatar">
+                        <img class="lazy" src="//cdn.minecart.com.br/assets/img/steve_head_64x64.png" data-src="https://minotar.net/helm/colonyz/64" alt>
+                    </div>
+                    <div class="content">
+                        <p>
+                            Postado por <b>colonyz</b>
+                        </p>
+                        <p>
+                            <b>
+                                <small>24-09-2024 01:22:20</small>
+                            </b>
+                        </p>
+                    </div>
+                </div>
+                <div class="webApp-boxNews__card lazy-news-image" data-bg="https://storage.minecart.com.br/e4e4694d3a67f966cc5944e41551d2ee_hero_loja.png">
+                    <div class="title">&lrm;</div>
+                </div>
+                <div class="flex flex-col gap-2 webApp-boxNews__main">
+                    <div class="content">
+                        <p style="text-align:justify;">
+                            <strong>TORNE-SE UM HERÓI DO DUST</strong>
+                            <br/>
+                            <br/>
+                            É com imensa felicidade que anunciamos o mais novo rank do Dust, o 
+                            <span style="color:hsl(0,75%,60%);">
+                                <strong>HERO</strong>
+                            </span>
+                            . Ele, diferente dos demais, funcionará no formato de assinatura, ou seja, será temporário em sua conta. Após o fim do período de assinatura, a tag e os benefícios 
+                            <span style="color:hsl(0,75%,60%);">
+                                <strong>HERO</strong>
+                            </span>
+                            são retirados e o jogador poderá optar por renovar ou não.
+                        </p>
+                        <p style="text-align:justify;"></p>
+                        <p style="text-align:justify;">
+                            <i>
+                                <strong>”Mas o que eu ganho comprando o HERO invés do PRO que é permanente?”</strong>
+                            </i>
+                        </p>
+                        <p style="text-align:justify;"></p>
+                        <p style="text-align:justify;">
+                            Para os jogadores mais tryhards e vaidosos, o 
+                            <span style="color:hsl(0,75%,60%);">
+                                <strong>HERO</strong>
+                            </span>
+                            é perfeito. Com o 
+                            <span style="color:hsl(0,75%,60%);">
+                                <strong>HERO</strong>
+                            </span>
+                            você terá acesso a:<br/>
+                        </p>
+                        <p style="text-align:justify;">
+                            • Customizações de tag<br/>
+                            • Cores alternativas nos clans<br/>
+                            • Acesso ao /fake<br/>
+                        </p>
+                        <p style="text-align:justify;">
+                            Dentre outros benefícios que você pode conferir nos detalhes do produto. Então corre para nossa loja e aproveita o cupom <strong>HERO</strong>
+                            que dá 5% de desconto em todos os pacotes 
+                            <span style="color:hsl(0,75%,60%);">
+                                <strong>HERO</strong>
+                            </span>
+                            .<br/>
+                            <br/>
+                            Prepare-se para uma nova era no 
+                            <span style="color:hsl(60,100%,50%);">
+                                <strong>Dust</strong>
+                            </span>
+                            . <br/>Junte-se aos melhores e faça parte do futuro!
+                        </p>
+                    </div>
+                    <div class="text-right">
+                        <a href="/news/2659" class="text-link">
+                            <button class="btn btn-xs btn-primary">LER MAIS</button>
+                        </a>
+                    </div>
+                </div>
+            </div>
+            <div class="webApp-box webApp-boxNews webApp-box__nonePadding">
+                <div class="webApp-boxNews__header">
+                    <div class="avatar">
+                        <img class="lazy" src="//cdn.minecart.com.br/assets/img/steve_head_64x64.png" data-src="https://minotar.net/helm/Fwizyx/64" alt>
+                    </div>
+                    <div class="content">
+                        <p>
+                            Postado por <b>Fwizyx</b>
+                        </p>
+                        <p>
+                            <b>
+                                <small>10-07-2024 23:04:42</small>
+                            </b>
+                        </p>
+                    </div>
+                </div>
+                <div class="webApp-boxNews__card lazy-news-image" data-bg="https://storage.minecart.com.br/16e3397e43b3175006c73d15e9e09fab_noticia.png">
+                    <div class="title">&lrm;</div>
+                </div>
+                <div class="flex flex-col gap-2 webApp-boxNews__main">
+                    <div class="content">
+                        <p>
+                            Saudações, membros do 
+                            <span style="color:hsl(60,100%,50%);">
+                                <strong>DUST</strong>
+                            </span>
+                            !
+                        </p>
+                        <p></p>
+                        <p>
+                            Temos uma notícia incrível para compartilhar com vocês: estamos lançando um novo rank exclusivo chamado <strong>BETA</strong>
+                            ! 
+                        </p>
+                        <p>
+                            Este rank será um diferencial em nosso servidor e estará disponível até o dia <strong>10/08/2024</strong>
+                            . E o mais empolgante: o <strong>BETA </strong>
+                            será o único rank eterno em nosso servidor!
+                        </p>
+                        <p></p>
+                        <p>
+                            Benefícios do Rank <strong>BETA</strong>
+                            :
+                        </p>
+                        <p>• Acesso antecipado a todas as novidades e atualizações.</p>
+                        <p>• Exclusividade eterna: O rank BETA nunca expirará.</p>
+                        <p>• Distinção: Destaque-se dos outros membros com benefícios únicos.</p>
+                        <p></p>
+                        <p>Oferta Especial de Lançamento:</p>
+                        <p>
+                            Para comemorar este lançamento, estamos oferecendo um cupom de 10% de desconto para os primeiros que adquirirem o rank <strong>BETA</strong>
+                            . 
+                        </p>
+                        <p>Use o código BETA10 no momento da compra e aproveite este desconto exclusivo!</p>
+                        <p></p>
+                        <p>
+                            Não perca a oportunidade de se tornar um membro <strong>BETA</strong>
+                            e desfrutar de benefícios incomparáveis em nosso servidor. Lembre-se, esta oferta é válida apenas até 10/08/2024!
+                        </p>
+                        <p></p>
+                        <p>
+                            Prepare-se para uma nova era no 
+                            <span style="color:hsl(60,100%,50%);">
+                                <strong>Dust</strong>
+                            </span>
+                            . <br/>Junte-se aos melhores e faça parte do futuro!
+                        </p>
+                    </div>
+                    <div class="text-right">
+                        <a href="/news/2523" class="text-link">
+                            <button class="btn btn-xs btn-primary">LER MAIS</button>
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div id="webApp-main__rightMenu">
+            <div id="webApp-box__purchases" class="webApp-box webApp-box__nonePadding">
+                <div class="title padding-10">ÚLTIMOS COMPRADORES </div>
+                <div class="content">
+                    <div class="purchases-row">
+                        <div class="avatar">
+                            <img class="lazy" src="//cdn.minecart.com.br/assets/img/steve_head_64x64.png" data-src="https://minotar.net/helm/eGazolla/32" alt="eGazolla">
+                        </div>
+                        <div class="username">
+                            <img src="//cdn.minecart.com.br/assets/img/icons/icon-crown.svg">eGazolla 
+                        </div>
+                    </div>
+                    <div class="purchases-row">
+                        <div class="avatar">
+                            <img class="lazy" src="//cdn.minecart.com.br/assets/img/steve_head_64x64.png" data-src="https://minotar.net/helm/_Whtzzz/32" alt="_Whtzzz">
+                        </div>
+                        <div class="username">_Whtzzz </div>
+                    </div>
+                    <div class="purchases-row">
+                        <div class="avatar">
+                            <img class="lazy" src="//cdn.minecart.com.br/assets/img/steve_head_64x64.png" data-src="https://minotar.net/helm/MadaraKzk/32" alt="MadaraKzk">
+                        </div>
+                        <div class="username">MadaraKzk </div>
+                    </div>
+                </div>
+            </div>
+            <div id="box-twitter" class="webApp-box webApp-box__nonePadding">
+                <a class="twitter-timeline text-center" style="display: block;" data-lang="pt" data-height="336" data-dnt="true" href="https://twitter.com/rede_dust">
+                    <img src="//cdn.minecart.com.br/assets/img/loading.gif">
+                </a>
+                <script async src="https://platform.twitter.com/widgets.js" charset="utf-8" type="de49bf600a4fd6158d997c0a-text/javascript"></script>
+            </div>
+            <div class="webApp-box webApp-box__transparent webApp-box__nonePadding">
+                <iframe class="lazy" data-src="https://discordapp.com/widget?id=1198693099837325362&theme=dark" width="100%" height="415" title="discord" style="border: none;"></iframe>
+            </div>
+        </div>
+    </div>
+</main>
